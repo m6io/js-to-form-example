@@ -1231,10 +1231,10 @@ isexe@^2.0.0:
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
-js-to-form@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/js-to-form/-/js-to-form-0.0.0.tgz#818faaa0fa0753a51f7df6708f57d936d0c58274"
-  integrity sha512-wVqT1yu7gvGqgJFkcfA5DBW+uaNLjw+frmpqhbtrDPG4XWNnhW3XOC2DgtoGl/KS3KlqmNtctxQ0GoI1fgIQrQ==
+js-to-form@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/js-to-form/-/js-to-form-0.0.5.tgz#ae6c8e6dff06b6e3e312d1565e014e05006f3432"
+  integrity sha512-i47Uk6DWru4/cUasbq+dhsKz9fC30jn1kTeaC9CvKJP2q73N2K77ur5WUHtzm4Fx2tdP3xSEIx8UHtKoFkx7IA==
   dependencies:
     "@types/json-schema" "^7.0.15"
     ajv "^8.16.0"
